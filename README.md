@@ -3,12 +3,14 @@
 Welcome to my profile :)
 
 Below is a brief summary of my professional moment:
-- 🔭 I’m currently working on Salesforce development ecossystem
+- 🔭 I’m currently working on Salesforce development ecossystem (Apex, LWC, Visualforce and B2C Commerce Cloud)
 - 🌱 I’m currently learning Javascript, CSS and Front End topics
+- 🔬 Searching the blockchain's dynamics, especially smart contracts
 - 👯 I’m looking to collaborate on integrating Salesforce solution to AI and Web3
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csilva86&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csilva86&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=csilva86&show_icons=true&theme=tokyonight" />
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilva86&layout=compact&theme=tokyonight" />
+
 
 
 <!--
