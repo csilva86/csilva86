@@ -7,7 +7,6 @@ Below is a brief summary of my professional moment:
 - 🌱 I’m currently learning Javascript, CSS and Front End topics
 - 🔬 Searching the blockchain's dynamics, especially smart contracts
 - 👯 I’m looking to collaborate on integrating Salesforce solution to AI and Web3
-
 ##
 
 <div style="display: inline_block">
