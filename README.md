@@ -23,6 +23,9 @@ Below is a brief summary of my professional moment:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
 </div>      
 
+##
+
+
 
 <!--
 **csilva86/csilva86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
