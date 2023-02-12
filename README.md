@@ -25,7 +25,15 @@ Below is a brief summary of my professional moment:
 
 ##
 
-
+<div style="display: inline_block">
+  <center>
+    <img height="90" width="90" align="center" src="tools-for-data-science.png" />
+    <img height="90" width="90" align="center" src="data-science-orientation.png" />
+    <img height="90" width="90" align="center" src="python-for-data-science-and-ai.png" />
+    <img height="90" width="90" align="center" src="data-science-methodology.png" />
+    <img height="90" width="90" align="center" src="docker-essentials-a-developer-introduction.png" />
+  </center>
+</div>
 
 <!--
 **csilva86/csilva86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
