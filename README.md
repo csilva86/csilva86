@@ -16,25 +16,22 @@ Below is a brief summary of my professional moment:
 
 ##
 
-<div style="display: inline_block">
-  <center>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></center>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
+<div style="display: inline_block" align="center">
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></center>
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" />
 </div>      
 
 ##
 
-<div style="display: inline_block">
-  <center>
+<div style="display: inline_block" align="center">
     <img height="90" width="90" align="center" src="tools-for-data-science.png" />
     <img height="90" width="90" align="center" src="data-science-orientation.png" />
     <img height="90" width="90" align="center" src="python-for-data-science-and-ai.png" />
     <img height="90" width="90" align="center" src="data-science-methodology.png" />
     <img height="90" width="90" align="center" src="docker-essentials-a-developer-introduction.png" />
-  </center>
 </div>
 
 <!--
