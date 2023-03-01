@@ -9,9 +9,9 @@ Below is a brief summary of my professional moment:
 - 👯 I’m looking to collaborate on integrating Salesforce solution to AI and Web3
 ##
 
-<div style="display: inline_block">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=csilva86&show_icons=true&theme=tokyonight" />
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilva86&layout=compact&theme=tokyonight" />
+<div style="display: inline_block" align="center">
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=csilva86&show_icons=true&theme=transparent" />
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilva86&layout=compact&theme=transparent" />
 </div>
 
 ##
