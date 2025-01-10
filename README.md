@@ -29,6 +29,8 @@ Below is a brief summary of my professional moment:
 
 <div style="display: inline_block" align="center">
     <img height="90" width="90" align="center" src="2021-03_Badge_SF-Certified_B2C-Commerce-Developer_500x490px.png" />
+    <img height="90" width="90" align="center" src="2024-06_Badge_SF-Certified_AI-Specialist_High-Res.png" />
+    <img height="90" width="90" align="center" src="2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" />
     <img height="90" width="90" align="center" src="tools-for-data-science.png" />
     <img height="90" width="90" align="center" src="data-science-orientation.png" />
     <img height="90" width="90" align="center" src="python-for-data-science-and-ai.png" />
